@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\jaehoon\\ai_speaker\\intermediates\\res\\merged\\release\\menu\\search_item.xml",
+        "source": "C:\\Users\\jaehoon\\ai_speaker\\node_modules\\react-native-navigation\\android\\app\\src\\main\\res\\menu\\search_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaehoon\\ai_speaker\\intermediates\\res\\merged\\release\\menu\\stub.xml",
+        "source": "C:\\Users\\jaehoon\\ai_speaker\\node_modules\\react-native-navigation\\android\\app\\src\\main\\res\\menu\\stub.xml"
+    }
+]
